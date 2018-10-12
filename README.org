@@ -16,3 +16,5 @@
 |  4 | Nguyen Ngoc Bao Thy | nguyenngocbaothy238@gmail.com | nguyenngocbaothy |
 |  5 | Đào Duy Tùng        | daoduytung9x@gmail.com        | kupintb          |
    6   Dam Quang Khoa Two    damquangkhoa02@gmail.com        damquangkhoa
+|  7 | Ly Chau Tri Nha     | lychautrinha@gmail.com        | 15110091         |
+|  8 | Dang Nhat Hai Long  | hailongdang.hailong@gmail.com | nucasspro        |
